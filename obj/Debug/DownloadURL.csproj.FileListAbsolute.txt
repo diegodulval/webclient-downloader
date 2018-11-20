@@ -1,0 +1,10 @@
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\obj\Debug\DownloadURL.csprojAssemblyReference.cache
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\obj\Debug\DownloadURL.Properties.Resources.resources
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\obj\Debug\DownloadURL.csproj.GenerateResource.cache
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\obj\Debug\DownloadURL.csproj.CoreCompileInputs.cache
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\bin\Debug\DownloadURL.exe.config
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\bin\Debug\DownloadURL.exe
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\bin\Debug\DownloadURL.pdb
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\obj\Debug\DownloadURL.exe
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\obj\Debug\DownloadURL.pdb
+C:\Users\NPDI\source\repos\WatcherLogTxt\DownloadURL\obj\Debug\DownloadURL.MainView.resources
